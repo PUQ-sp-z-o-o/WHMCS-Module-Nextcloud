@@ -1,0 +1,18 @@
+# Add server (Nextcloud server)
+
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Add a new server to the system WHMCS.
+
+```
+System Settings->Servers->Add New Server
+```
+
+- Enter the correct **Name** and **Hostname**
+
+[![image-1660026866233.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660026866233.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660026866233.png)
+
+- In the **Server Details** section, select the "**PUQ Nextcloud**" module and enter the correct **username** and **password** for the **Nextcloud web interface**.
+- To check, click the **"Test connection"** button
+
+[![image-1660026922621.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660026922621.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660026922621.png)
