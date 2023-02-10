@@ -1,8 +1,12 @@
 # WHMCS-Module-Nextcloud
-Provision NextCloud accounts via WHMCS module.
+The module is used to create customer accounts on the previously prepared Nextcloud server.
+Thanks to the module, the company is able to offer public cloud services to its customers.
+The module enables the definition of multiple public cloud packages. The module creates a customer account according to the selected package. The client can have many independent accounts in the cloud.
+
+For the correct operation of the module, a pre-prepared Nextcloud installation is required (the module does not assist in the installation of the Nextcloud server and assumes that such installation is ready for operation.)
 # Description
 
-#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [Forum](https://forum.puqcloud.com/viewforum.php?f=7)
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
 
 ### Preface
 
@@ -10,9 +14,9 @@ Thanks to the module, the company is able to offer public cloud services to its 
 
 The module is used to create customer accounts on the previously prepared Nextcloud server. The module enables You to define multiple public cloud packages and sell them at different prices. The module creates a customer account according to the selected package. The client can have many independent accounts in the cloud.
 
-<p class="callout info">For the correct operation of the module, a pre-prepared Nextcloud installation is required (the module does not assist in the installation of the Nextcloud server and assumes that such installation is ready for operation through API.) Module use Nextcloud API to manage clients account.</p>
+>For the correct operation of the module, a pre-prepared Nextcloud installation is required (the module does not assist in the installation of the Nextcloud server and assumes that such installation is ready for operation through API.) Module use Nextcloud API to manage clients account.
 
-<p class="callout info">We have prepared a detailed installation manual for the module, including all the steps needed to implement the module, including the preparation of the Nextcloud server, including all installation steps such as NGNIX, PHP, Nextcloud, SSL certificates etc.</p>
+>We have prepared a detailed installation manual for the module, including all the steps needed to implement the module, including the preparation of the Nextcloud server, including all installation steps such as NGNIX, PHP, Nextcloud, SSL certificates etc.
 
 ### Functions:
 
@@ -42,9 +46,9 @@ The module is used to create customer accounts on the previously prepared Nextcl
 
 - - - - - -
 
-<p class="callout warning">WHMCS minimal version: 8 +</p>
+>WHMCS minimal version: 8 +
 
-<p class="callout warning">Nextcloud minimal version: 20+</p>
+>Nextcloud minimal version: 20+
 
 [![image-1660026020805.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660026020805.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660026020805.png)
 
