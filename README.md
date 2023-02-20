@@ -6,7 +6,7 @@ The module enables the definition of multiple public cloud packages. The module 
 For the correct operation of the module, a pre-prepared Nextcloud installation is required (the module does not assist in the installation of the Nextcloud server and assumes that such installation is ready for operation.)
 # Description
 
-#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
 
 ### Preface
 
