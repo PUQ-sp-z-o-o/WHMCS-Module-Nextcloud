@@ -2,7 +2,7 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
 
-##### v1.1 Released 05-01-2023
+### v1.1 Released 05-01-2023
 
 1. Support WHMCS V8.6
 2. Support IonCube PHP Loader v12
@@ -14,6 +14,6 @@
 
 - - - - - -
 
-##### v1.0 Released 01-08-2022
+### v1.0 Released 01-08-2022
 
 First version
