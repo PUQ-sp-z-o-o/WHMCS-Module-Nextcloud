@@ -5,7 +5,7 @@
 ### v1.2 Released 05-03-2023
  
 1. Support for PHP 8.1 and PHP 7.4
-2. Support Nextcloud Hub 3 v25
+2. Support **Nextcloud Hub 3** v25
 3. Changes made to templates, add icons
 4. API timeout set 30
 
