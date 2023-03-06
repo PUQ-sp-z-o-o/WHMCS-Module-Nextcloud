@@ -4,4 +4,5 @@
 
 ### Here is the data presented for the service admin in WHMCS
 
-[![image-1660030984721.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660030984721.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660030984721.png)
+![image](https://user-images.githubusercontent.com/81689153/223082394-969a1a84-8b52-4506-94a7-64a93f689b74.png)
+
