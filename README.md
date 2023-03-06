@@ -50,6 +50,9 @@ The module is used to create customer accounts on the previously prepared Nextcl
 
 >Nextcloud minimal version: 20+
 
-[![image-1660026020805.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660026020805.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660026020805.png)
+![image](https://user-images.githubusercontent.com/81689153/223085446-9061e22c-3b3a-419d-b000-5b1b62a96139.png)
 
-[![image-1660026031936.png](https://doc.puq.info/uploads/images/gallery/2022-08/scaled-1680-/image-1660026031936.png)](https://doc.puq.info/uploads/images/gallery/2022-08/image-1660026031936.png)
+![image](https://user-images.githubusercontent.com/81689153/223085469-f1909ebc-31f1-4b40-9f58-6df8301743ff.png)
+
+![image](https://user-images.githubusercontent.com/81689153/223085496-01fbefa8-2b18-47f2-829e-0204a1e75d70.png)
+
