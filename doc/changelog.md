@@ -2,6 +2,14 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.3 Released 09-10-2023
+
+1. Fixed bug with incorrect client data, CRITICAL
+2. Support **Nextcloud Hub 6 27.1.2**
+3. Translations added/updated **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
+
+- - - - - -
+
 ### v1.2 Released 05-03-2023
  
 1. Support for PHP 8.1 and PHP 7.4
