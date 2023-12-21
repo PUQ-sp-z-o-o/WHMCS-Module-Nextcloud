@@ -5,7 +5,9 @@
 ### v1.4 Released 21-12-2023
 
 1. Support **Nextcloud Hub 7 (28.0.0)**
+
 Client Area Enhancements:
+
 1. Display the URL of the server with the port if it is not standard.
 2. Added the ability to disable the display of service passwords by default.
 3. Introduced a "Show" button for displaying service passwords in the Client Area.
