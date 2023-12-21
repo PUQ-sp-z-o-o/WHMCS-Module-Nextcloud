@@ -2,6 +2,19 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.4 Released 21-12-2023
+
+1. Support Nextcloud Hub 7 (28.0.0)
+Client Area Enhancements:
+1. Display the URL of the server with the port if it is not standard.
+2. Added the ability to disable the display of service passwords by default.
+3. Introduced a "Show" button for displaying service passwords in the Client Area.
+4. Provided options to display service passwords in plain text.
+ 
+>You should save the 'Module Setting' in your products for the module to function correctly.
+
+- - - - - -
+
 ### v1.3 Released 09-10-2023
 
 1. Fixed bug with incorrect client data, CRITICAL
