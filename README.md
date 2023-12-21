@@ -4,9 +4,12 @@ Thanks to the module, the company is able to offer public cloud services to its 
 The module enables the definition of multiple public cloud packages. The module creates a customer account according to the selected package. The client can have many independent accounts in the cloud.
 
 For the correct operation of the module, a pre-prepared Nextcloud installation is required (the module does not assist in the installation of the Nextcloud server and assumes that such installation is ready for operation.)
-# Description
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
+## Nextcloud module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
+
+# Description
 
 ### Preface
 

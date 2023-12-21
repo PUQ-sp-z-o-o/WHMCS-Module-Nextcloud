@@ -1,6 +1,8 @@
-# Product Information
+## Nextcloud module **[WHMCS](https://puqcloud.com/link.php?id=77)**
 
-#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-nextcloud) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
+
+# Product Information
 
 ### Here is the data presented for the service admin in WHMCS
 
