@@ -13,7 +13,7 @@ Client Area Enhancements:
 3. Introduced a "Show" button for displaying service passwords in the Client Area.
 4. Provided options to display service passwords in plain text.
  
->You should save the 'Module Setting' in your products for the module to function correctly.
+> **You should save the 'Module Setting' in your products for the module to function correctly.**
 
 - - - - - -
 
