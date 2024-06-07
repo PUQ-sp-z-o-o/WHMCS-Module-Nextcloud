@@ -53,9 +53,7 @@ The module is used to create customer accounts on the previously prepared Nextcl
 
 >Nextcloud minimal version: 20+
 
-![image](https://user-images.githubusercontent.com/81689153/223085446-9061e22c-3b3a-419d-b000-5b1b62a96139.png)
-
-![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-Nextcloud/assets/81689153/af037857-2bbd-4834-92f4-693227b3c7ea)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-Nextcloud/assets/81689153/06369f4c-98c2-4fc7-ad51-5a75551fb0ea)
 
 ![image](https://user-images.githubusercontent.com/81689153/223085469-f1909ebc-31f1-4b40-9f58-6df8301743ff.png)
 
