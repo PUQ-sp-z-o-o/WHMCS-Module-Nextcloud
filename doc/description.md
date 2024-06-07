@@ -1,4 +1,3 @@
-c
 # Description
 
 ### Preface
