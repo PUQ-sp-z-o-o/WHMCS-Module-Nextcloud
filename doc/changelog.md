@@ -4,6 +4,12 @@
 
 # Changelog
 
+### v1.5 Released 06-06-2024
+1. Client area more adapted for mobile version
+2. Buttons for copying login and password have been added to the client area
+
+- - - - - -
+
 ### v1.4 Released 21-12-2023
 
 1. Support **Nextcloud Hub 7 (28.0.0)**
