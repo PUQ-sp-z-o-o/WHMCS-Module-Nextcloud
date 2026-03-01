@@ -5,6 +5,15 @@
 
 ---
 
+## v3.1 (01-03-2026)
+
+- Added null coalescing checks for all array and superglobal accesses to prevent "Undefined array key" warnings
+- Added null-safe operators for object property access where object can be null
+- Fixed type safety for typed class properties (preventing `TypeError` on null assignment)
+- Added boundary checks for empty database query results
+
+---
+
 ## v3.0 (21-01-2026)
 
 - Support for WHMCS 9+
