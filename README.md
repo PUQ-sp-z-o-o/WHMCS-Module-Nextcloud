@@ -1,7 +1,7 @@
 # Description
 
 ### Nextcloud module **[WHMCS](https://puqcloud.com/link.php?id=77)**
-#####  [Order now](https://puqcloud.com/whmcs-module-nextcloud.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/whmcs-module-nextcloud.php) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Nextcloud/) | [Community](https://community.puqcloud.com/)
 
 ## Nextcloud WHMCS module
 
@@ -29,10 +29,10 @@ The Nextcloud WHMCS module is a provisioning module that integrates WHMCS with N
 
 | Requirement | Minimum |
 |-------------|---------|
-| WHMCS | 9.x or higher |
-| PHP | 8.2 or higher |
-| Nextcloud | 20 or higher |
-| ionCube Loader | v13 or newer (v14, v15) |
+| **WHMCS** | 8.x+ |
+| **PHP** | 8.1+ |
+| **Nextcloud** | 20+ |
+| **ionCube Loader** | v15+ |
 
 ---
 
