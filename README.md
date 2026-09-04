@@ -29,8 +29,8 @@ The Nextcloud WHMCS module is a provisioning module that integrates WHMCS with N
 
 | Requirement | Minimum |
 |-------------|---------|
-| **WHMCS** | 8.x+ |
-| **PHP** | 8.1+ |
+| **WHMCS** | 8.x+, 9.x+. |
+| **PHP** | 7.4, 8.1, 8.2, 8.3, 8.4 |
 | **Nextcloud** | 20+ |
 | **ionCube Loader** | v15+ |
 

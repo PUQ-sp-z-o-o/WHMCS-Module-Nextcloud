@@ -7,8 +7,8 @@
 
 | Requirement | Minimum |
 |-------------|---------|
-| **WHMCS** | 8.x+ |
-| **PHP** | 8.1+ |
+| **WHMCS** | 8.x+, 9.x+. |
+| **PHP** | 7.4, 8.1, 8.2, 8.3, 8.4 |
 | **ionCube Loader** | v15+ |
 
 > **Note:** The module uses ionCube encoding. Make sure ionCube Loader is installed and active on your server.
